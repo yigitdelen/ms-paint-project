@@ -1,4 +1,4 @@
-# MS Paint Clone 🎨
+# MS Paint Clone 
 
 A robust, object-oriented MS Paint clone built with C# and WPF. This application provides a modern and intuitive interface for fundamental vector-based drawing operations.
 
