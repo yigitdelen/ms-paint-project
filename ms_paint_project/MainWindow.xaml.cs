@@ -9,7 +9,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using Microsoft.Win32;
 
-namespace _1306230013
+namespace ms_paint_project
 {
     public partial class MainWindow : Window
     {

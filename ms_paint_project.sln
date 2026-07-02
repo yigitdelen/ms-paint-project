@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36603.0 d17.14
+VisualStudioVersion = 17.14.36603.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1306230013", "1306230013\1306230013.csproj", "{B3282F67-C53B-4AFD-A0A1-807E833C8399}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ms_paint_project", "ms_paint_project\ms_paint_project.csproj", "{B3282F67-C53B-4AFD-A0A1-807E833C8399}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

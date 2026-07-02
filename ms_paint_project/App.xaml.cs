@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace _1306230013
+namespace ms_paint_project
 {
     /// <summary>
     /// Interaction logic for App.xaml
